@@ -3,62 +3,47 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24)"
+title: "The First International Workshop on Automated Software Engineering for Computer Games"
 ---
 
 <!-- # Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24) -->
 
 <!-- {% include figure image_path="/assets/images/joystick-hand.jpg" %} -->
 
-> Co-located with [ACM International Conference on the Foundations of Software Engineering (FSE'2024)](https://conf.researchr.org/home/fse-2024)
+> A one day workshop held in conjunction with the [36th IEEE/ACM International Conference on Automated Software Engineering](https://conf.researchr.org/home/ase-2021).
 
-> Porto de Galinhas, Brazil
+The game community continues to grow and embraces stake-holders with broad interests. There are games for entertainment, serious games (i.e., games with a purpose), and gamified applications. Entertainment games, for example, are a thriving industry with over two billion players around the world; this industry generates over 120 billion in revenues. However, today's large-scale entertainment games have many challenging development issues.
+They are complex, can take years to develop, and rely on teams with expertise spanning artistic, computer science, software engineering, and business skills. Games have demanding traditional quality of service requirements (e.g., performance, reliability, scalability, usability). They also have distinct user experience requirements to provide players with a game that is engaging and fun.
 
-# Theme
-The Foundations of Applied Software Engineering for Games workshop (FaSE4Games’24) has for goal to share innovative research contributions in software-engineering methods that address the challenges currently facing game development (entertainment games, serious games, and gamified applications).
+The interdisciplinary games and software engineering research community investigates game development issues from the perspectives of traditional engineering (e.g., requirements engineering, design, testing) and umbrella (e.g., lifecycle processes, configuration management, traceability) activities. In addition, topics including metrics, re-use, data analytics, user experience, and so on are also explored. Automating the methods for these diverse topics is essential to support the rapid, cost effective development of high quality games. ASE4Games 2021 provides a forum to explore issues that crosscut the automated software engineering and the game development communities.
 
-# Goals
-FaSE4Games workshop will gather the community (game researchers, game developers, and educators) and provide a safe space to share contributions and discuss relevant topics to the challenges of game development.
+## Theme and Topics
 
-# Topics
-Such challenges include, but are not limited to:
+Game developers share a common community of interest: how to best engineer game software. They focus their attention on entertainment market opportunities, game-based applications in non-entertainment domains such as defense, education, healthcare, and scientific research (i.e., serious games), and the gamification of applications to improve engagement. This workshop seeks contributions from academic researchers and commercial game developers, addressing topics that span the emerging and current research challenges in the areas including, but not limited to:
 
-* **Artificial intelligence for software engineering** applied to games.
-* **Testing and debugging** applied to games.
-* **Empirical software engineering** applied to games.
-* **Model-driven engineering** applied to games.
-* **Performance engineering** applied to games.
-* **Program analysis, comprehension, repair, or synthesis** applied to games.
-* **Requirements engineering** applied to games.
-* **Software architecture** applied to games.
-* **Software processes** applied to games.
+* Automated requirements engineering methods for games.
+* Automated software architecture and design methods for games.
+* Automated generation and modding of games.
+* Automated software testing for games, including usability and playtesting.
+* Automated model based representations, analyses, and transformations (forward, reverse).
+* Automated monitoring, analysis, and visualization of game play data acquired from large scale games.
+* Automated machine learning techniques applied to game development.
+* Automated adaptation of game play.
+* Automated workflows/processes for game development (e.g., Agile, DevOps).
+* Automated configuration management, traceability, and build methods for game development.
+* Tools, infrastructure, and services supporting automated game development methods.
 
-<!-- # Motivation
-The goal and topics of the workshop make the proposed workshop very well suited to become a co-located **FSE'24 conference event**. It strongly aligns with the topics of the FSE conference, e.g., Debugging and fault localisation, and inclusion of researchers, practitioners, and educators. -->
+The goals of ASE4Games are gathering academic game researchers and commercial game developers and contributing on topics relevant to the emerging and current grand challenges in Automated Software Engineering for Games. We seek to:
 
-# Audience
-The targeted audience includes people from the international community in academia or industry with an interest in game development methods from a software engineering perspective. 
+* Bring together the greater community of software engineers and game engineers in an interactive program that encourages discussion and scholarly debate from interdisciplinary perspectives.
+* Identify and explore emerging and new research challenges, costs and benefits for entertainment games, serious games, and gamification in traditional (non-game) applications and activities.
+* Generate a new research agenda, identify topics of interest for this community, and how future workshops may explore these topics.
 
-The workshop will be open to anyone with related interests (i.e., not restricted to authors/co-authors), including game researchers (students and faculty), developers, and educators. As in previous editions, it will attract a cross-disciplinary, diverse community.
+This workshop is structured to be highly interactive, encourage discussion, and appeal to participants from academia and industry.
+The workshop will feature two keynote presentations, short and long paper presentations with discussions, a game/tool demonstration session, and a social event to build strong, lasting relationships among the participants.
 
-# Workshop Format
+## Video
 
-FaSE4Games'24 is a one-day, hibrid workshop. This workshop will be interactive, encourage discussion, and appeal to participants from academia, education, and industry. 
+Hosted on Youtube.
 
-The workshop will feature **two keynotes** (one industry and one academia), short and long presentations with discussions, and a social event to build strong, lasting relationships among participants. 
-
-FaSE4Games'24 provides a forum to explore the challenges that crosscut the software-engineering and game-development communities. The goal of FaSE4Games is to provide a safe space for academic game researchers and commercial game developers to present, discuss, and advance the state-of-the-art relevant to the emerging and current challenges of software engineering for games.
-
-# Paper Selection
-
-The program committee will accept **four to six long papers** and **six to eight short papers**. 
-
-The page limits are **5 to 8 pages** for short and long papers, respectively. For each accepted paper, we will require at least one author to register, attend, and present.
-
-# Proceedings
-
-The proceedings will appear in the ACM digital library. Consequently, at least one of the authors must register for the workshop.
-
-
-
-<!-- Find us at **?** -->
+[![Hosted on Youtube](https://img.youtube.com/vi/8gfzLD_RvyA/0.jpg)](https://www.youtube.com/watch?v=8gfzLD_RvyA)
